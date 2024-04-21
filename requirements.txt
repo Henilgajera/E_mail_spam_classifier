@@ -86,4 +86,5 @@ watchdog==4.0.0
 wcwidth==0.2.8
 Werkzeug==2.0.2
 zipp==3.17.0
-python-3.10
+python-3.9
+
